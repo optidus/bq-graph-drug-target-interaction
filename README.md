@@ -66,6 +66,6 @@ Each query is shown in GQL alongside its SQL equivalent for direct comparison.
 
 ## 📝 Further Reading
 
-- [BigQuery Property Graph documentation](https://cloud.google.com/bigquery/docs/graph-intro)
-- [BigQuery GQL — GRAPH_TABLE reference](https://cloud.google.com/bigquery/docs/reference/standard-sql/graph-table)
+- [BigQuery Graph blog]([https://cloud.google.com/bigquery/docs/graph-intro](https://medium.com/google-cloud/bigquery-graph-series-part-1-from-dark-data-to-knowledge-graphs-5a37f052d043))
+- [BigQuery Graph Analytics video](https://www.youtube.com/watch?v=ylUaoy1musw&t=481s)
 - [Spanner Graph documentation](https://cloud.google.com/spanner/docs/graph/overview) — for real-time operational graph use cases
